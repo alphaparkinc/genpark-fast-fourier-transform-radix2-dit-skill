@@ -1,0 +1,5 @@
+name: genpark-fast-fourier-transform-radix2-dit-skill
+description: Radix-2 Decimation-in-Time (DIT) Fast Fourier Transform (FFT) and Inverse FFT with twiddle factor tables
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
