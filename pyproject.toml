@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-fast-fourier-transform-radix2-dit-skill"
+version = "1.0.0"
+description = "Radix-2 Decimation-in-Time (DIT) Fast Fourier Transform (FFT) and Inverse FFT with twiddle factor tables"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
