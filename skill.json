@@ -1,0 +1,19 @@
+{
+  "name": "genpark-fast-fourier-transform-radix2-dit-skill",
+  "version": "1.0.0",
+  "description": "Radix-2 Decimation-in-Time (DIT) Fast Fourier Transform (FFT) and Inverse FFT with twiddle factor tables",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "fft",
+    "fast-fourier-transform",
+    "dsp",
+    "spectral-analysis",
+    "cooley-tukey",
+    "signal-processing",
+    "python-standard-library",
+    "agent-skills",
+    "frequency-domain",
+    "discrete-fourier-transform"
+  ]
+}
